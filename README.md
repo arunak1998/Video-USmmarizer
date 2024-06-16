@@ -1,1 +1,1 @@
-# Video-USmmarizer
+# VideoSummarizer
